@@ -1,0 +1,5 @@
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Core\obj\Debug\EF.Core.csproj.CoreCompileInputs.cache
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Core\bin\Debug\EF.Core.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Core\bin\Debug\EF.Core.pdb
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Core\obj\Debug\EF.Core.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Core\obj\Debug\EF.Core.pdb

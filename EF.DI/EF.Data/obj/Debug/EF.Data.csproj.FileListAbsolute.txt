@@ -1,0 +1,14 @@
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\obj\Debug\EF.Data.csprojAssemblyReference.cache
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\obj\Debug\EF.Data.csproj.CoreCompileInputs.cache
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EF.Data.dll.config
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EF.Data.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EF.Data.pdb
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EF.Core.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EntityFramework.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EF.Core.pdb
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EntityFramework.xml
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\obj\Debug\EF.Data.csproj.CopyComplete
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\obj\Debug\EF.Data.dll
+F:\GithubRepository\.net-ef-mvc-dependency-injection\EF.DI\EF.Data\obj\Debug\EF.Data.pdb
