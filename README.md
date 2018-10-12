@@ -1,1 +1,1 @@
-# .net-ef-mvc-dependency-injection
+依赖注入泛型仓储模式
